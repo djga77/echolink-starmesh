@@ -51,7 +51,7 @@ lane: K-25<BR>
 focus: A-25<BR>
 merger_qtr: 2033-Q4<BR>
 window_seconds: 59<BR>
-rule: SAY_LINE_CUT_FAST<BR><BR>
+rule: SAY_LINE_CUT_FAST<BR>
 observation: crowds → wider windows<BR><BR>
 ```
 **Keywords:** `echo-layer` `starmesh` `intercepts` `the-light` `a25` `k25` `obel` `storobolisk` `council-of-gabriels` `polaroid` `blueprint`
