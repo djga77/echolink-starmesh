@@ -44,15 +44,15 @@ status = ONLINE
 - <B>M</B>erger lands Q4 2033
 - <B>E</B>cho layer compromised
 - <B>S</B>tarMesh holds `~:59`
-- <B>H</B>umans keep it human<BR>
-```yaml<BR>
+- <B>H</B>umans keep it human<BR><BR>
+```YAML<BR>
 # ROUTING.MAP (excerpt)<BR>
 lane: K-25<BR>
 focus: A-25<BR>
 merger_qtr: 2033-Q4<BR>
 window_seconds: 59<BR>
 rule: SAY_LINE_CUT_FAST<BR><BR>
-observation: crowds → wider windows<BR>
+observation: crowds → wider windows<BR><BR>
 ```
 **Keywords:** `echo-layer` `starmesh` `intercepts` `the-light` `a25` `k25` `obel` `storobolisk` `council-of-gabriels` `polaroid` `blueprint`
 > If the gallery goes dark: wait for green, then try the LINK `..` again. More intercepts soon.
