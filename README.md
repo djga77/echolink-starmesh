@@ -29,28 +29,29 @@ status = ONLINE
 - [**Field Brief 407 — OBEL jammer**](https://github.com/djga77/echolink-starmesh/blob/main/field-brief-407-obel-jammer-web.png)
 <details>
 <summary><strong>[ ALT FORMATS / PRINT (PDF) ]</strong></summary>
+  
 - **Core (print)** — [PDF](https://github.com/djga77/echolink-starmesh/blob/main/blueprint-starmesh-core-print.pdf)
 - **Faceplate (print)** — [PDF](https://github.com/djga77/echolink-starmesh/blob/main/blueprint-starmesh-faceplate-print.pdf)
 - **ISO / Assembly (print)** — [PDF](https://github.com/djga77/echolink-starmesh/blob/main/blueprint-starmesh-iso-assembly-print.pdf)
 - **Field Brief 407 — OBEL jammer (print)** — [PDF](https://github.com/djga77/echolink-starmesh/blob/main/field-brief-407-obel-jammer-print.pdf)
 </details>
 ### ROUTE CARDS (mnemonic)
-- **S**ignal rides crowd attention
-- **T**iming widens the window
-- **A**tlas routes converge on A-25
-- **R**ed sweep = cut fast
-- **M**erger lands Q4 2033
-- **E**cho layer compromised
-- **S**tarMesh holds `~:59`
-- **H**umans keep it human
-```yaml
-# ROUTING.MAP (excerpt)
-lane: K-25
-focus: A-25
-merger_qtr: 2033-Q4
-window_seconds: 59
-rule: SAY_LINE_CUT_FAST
-observation: crowds → wider windows
+- **S**ignal rides crowd attention<BR>
+- **T**iming widens the window<BR>
+- **A**tlas routes converge on A-25<BR>
+- **R**ed sweep = cut fast<BR>
+- **M**erger lands Q4 2033<BR>
+- **E**cho layer compromised<BR>
+- **S**tarMesh holds `~:59`<BR>
+- **H**umans keep it human<BR>
+```yaml<BR>
+# ROUTING.MAP (excerpt)<BR>
+lane: K-25<BR>
+focus: A-25<BR>
+merger_qtr: 2033-Q4<BR>
+window_seconds: 59<BR>
+rule: SAY_LINE_CUT_FAST<BR><BR>
+observation: crowds → wider windows<BR>
 ```
 **Keywords:** `echo-layer` `starmesh` `intercepts` `the-light` `a25` `k25` `obel` `storobolisk` `council-of-gabriels` `polaroid` `blueprint`
 > If the gallery goes dark: wait for green, then try the LINK `..` again. More intercepts soon.
