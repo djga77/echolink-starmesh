@@ -39,7 +39,7 @@ status = ONLINE
 <BR>
 ### ROUTE CARDS (mnemonic)
 **S**ignal rides crowd attention · **T**iming widens the window · **A**tlas routes converge on A-25 · **R**ed sweep = cut fast · **M**erger lands Q4 2033 · **E**cho layer compromised · **S**tarMesh holds `~:59` · **H**umans keep it human
-~~~yaml
+```yaml
 # ROUTING.MAP (excerpt)
 lane: K-25
 focus: A-25
