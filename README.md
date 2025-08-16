@@ -35,15 +35,15 @@ status = ONLINE
 - **ISO / Assembly (print)** — [PDF](https://github.com/djga77/echolink-starmesh/blob/main/blueprint-starmesh-iso-assembly-print.pdf)
 - **Field Brief 407 — OBEL jammer (print)** — [PDF](https://github.com/djga77/echolink-starmesh/blob/main/field-brief-407-obel-jammer-print.pdf)
 </details>
-### ROUTE CARDS (mnemonic)
-- **S**ignal rides crowd attention<BR>
-- **T**iming widens the window<BR>
-- **A**tlas routes converge on A-25<BR>
-- **R**ed sweep = cut fast<BR>
-- **M**erger lands Q4 2033<BR>
-- **E**cho layer compromised<BR>
-- **S**tarMesh holds `~:59`<BR>
-- **H**umans keep it human<BR>
+### ROUTE CARDS (mnemonic)<BR>
+- <B>S</B>ignal rides crowd attention<BR>
+- <B>T</B>iming widens the window<BR>
+- <B>A</B>tlas routes converge on A-25<BR>
+- <B>R</B>ed sweep = cut fast<BR>
+- <B>M</B>erger lands Q4 2033<BR>
+- <B>E</B>cho layer compromised<BR>
+- <B>S</B>tarMesh holds `~:59`<BR>
+- <B>H</B>umans keep it human<BR>
 ```yaml<BR>
 # ROUTING.MAP (excerpt)<BR>
 lane: K-25<BR>
