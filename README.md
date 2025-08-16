@@ -24,14 +24,13 @@ status = ONLINE
 + cut: when triple-chirp                   [OPENS]
 ~~~
 <details>
-<summary><strong>Artifacts</strong> (schematics + brief)</summary>
-- Core — <a href="./blueprint-starmesh-core-web.png">PNG</a> · <a href="./blueprint-starmesh-core-print.pdf">PDF</a><br>
-- Faceplate — <a href="./blueprint-starmesh-faceplate-web.png">PNG</a> · <a href="./blueprint-starmesh-faceplate-print.pdf">PDF</a><br>
-- ISO / Assembly — <a href="./blueprint-starmesh-iso-assembly-web.png">PNG</a> · <a href="./blueprint-starmesh-iso-assembly-print.pdf">PDF</a><br>
-- Field Brief 407 — OBEL jammer — <a href="./field-brief-407-obel-jammer-web.png">PNG</a> · <a href="./field-brief-407-obel-jammer-print.pdf">PDF</a>
-</details>
+### Artifacts (schematics + brief)
+- **Core** — [PNG](./blueprint-starmesh-core-web.png) · [PDF](./blueprint-starmesh-core-print.pdf)
+- **Faceplate** — [PNG](./blueprint-starmesh-faceplate-web.png) · [PDF](./blueprint-starmesh-faceplate-print.pdf)
+- **ISO / Assembly** — [PNG](./blueprint-starmesh-iso-assembly-web.png) · [PDF](./blueprint-starmesh-iso-assembly-print.pdf)
+- **Field Brief 407 — OBEL jammer** — [PNG](./field-brief-407-obel-jammer-web.png) · [PDF](./field-brief-407-obel-jammer-print.pdf)
 ### ROUTE CARDS (mnemonic)
-**S**ignal rides crowd attention · **T**iming widens the window · **A**tlas routes converge on A-25 · **R**ed sweep = cut fast · **M**erger lands Q4 2033 · **E**cho layer compromised · **S**tarMesh holds ~:59 · **H**umans keep it human
+**S**ignal rides crowd attention · **T**iming widens the window · **A**tlas routes converge on A-25 · **R**ed sweep = cut fast · **M**erger lands Q4 2033 · **E**cho layer compromised · **S**tarMesh holds `~:59` · **H**umans keep it human
 ~~~yaml
 # ROUTING.MAP (excerpt)
 lane: K-25
