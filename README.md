@@ -30,6 +30,7 @@ status = ONLINE
 - [**Field Brief 407 — OBEL jammer**](https://github.com/djga77/echolink-starmesh/blob/main/field-brief-407-obel-jammer-web.png)
 <details>
 <summary><strong>[ ALT FORMATS / PRINT (PDF) ]</strong></summary>
+  
 - **Core (print)** — [PDF](https://github.com/djga77/echolink-starmesh/blob/main/blueprint-starmesh-core-print.pdf)
 - **Faceplate (print)** — [PDF](https://github.com/djga77/echolink-starmesh/blob/main/blueprint-starmesh-faceplate-print.pdf)
 - **ISO / Assembly (print)** — [PDF](https://github.com/djga77/echolink-starmesh/blob/main/blueprint-starmesh-iso-assembly-print.pdf)
