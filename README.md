@@ -37,13 +37,13 @@ status = ONLINE
 </details>
 <BR>
 ### ROUTE CARDS (mnemonic)<BR>
-- <B>S</B>ignal rides crowd attention
+<B>S</B>ignal rides crowd attention
 - <B>T</B>iming widens the window
 - <B>A</B>tlas routes converge on A-25
 - <B>R</B>ed sweep = cut fast
 - <B>M</B>erger lands Q4 2033
 - <B>E</B>cho layer compromised
-- <B>S</B>tarMesh holds `~:59`<BR>
+- <B>S</B>tarMesh holds `~:59`
 - <B>H</B>umans keep it human<BR>
 ```yaml<BR>
 # ROUTING.MAP (excerpt)<BR>
