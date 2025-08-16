@@ -25,10 +25,10 @@ status = ONLINE
 ~~~
 <details>
 ### Artifacts (schematics + brief)
-- **Core** — [PNG](./blueprint-starmesh-core-web.png) · [PDF](./blueprint-starmesh-core-print.pdf)
-- **Faceplate** — [PNG](./blueprint-starmesh-faceplate-web.png) · [PDF](./blueprint-starmesh-faceplate-print.pdf)
-- **ISO / Assembly** — [PNG](./blueprint-starmesh-iso-assembly-web.png) · [PDF](./blueprint-starmesh-iso-assembly-print.pdf)
-- **Field Brief 407 — OBEL jammer** — [PNG](./field-brief-407-obel-jammer-web.png) · [PDF](./field-brief-407-obel-jammer-print.pdf)
+- **Core** — [PNG](https://github.com/djga77/echolink-starmesh/blueprint-starmesh-core-web.png) · [PDF](https://github.com/djga77/echolink-starmesh/blueprint-starmesh-core-print.pdf)
+- **Faceplate** — [PNG](https://github.com/djga77/echolink-starmesh/blueprint-starmesh-faceplate-web.png) · [PDF](https://github.com/djga77/echolink-starmesh/blueprint-starmesh-faceplate-print.pdf)
+- **ISO / Assembly** — [PNG](https://github.com/djga77/echolink-starmesh/blueprint-starmesh-iso-assembly-web.png) · [PDF](https://github.com/djga77/echolink-starmesh/blueprint-starmesh-iso-assembly-print.pdf)
+- **Field Brief 407 — OBEL jammer** — [PNG](https://github.com/djga77/echolink-starmesh/field-brief-407-obel-jammer-web.png) · [PDF](https://github.com/djga77/echolink-starmesh/field-brief-407-obel-jammer-print.pdf)
 ### ROUTE CARDS (mnemonic)
 **S**ignal rides crowd attention · **T**iming widens the window · **A**tlas routes converge on A-25 · **R**ed sweep = cut fast · **M**erger lands Q4 2033 · **E**cho layer compromised · **S**tarMesh holds `~:59` · **H**umans keep it human
 ~~~yaml
