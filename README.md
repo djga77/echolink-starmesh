@@ -23,6 +23,9 @@ status = ONLINE
 + cut: when triple-chirp                   [OPENS]
 ```
 ### Artifacts (schematics + brief)
+
+ [**Core**]( [**Core**](https://91100d81-07ee-4eb2-b4b6-a8d19c9845af-00-2b2nz9m30atd1.spock.replit.dev/) 
+ 
 - [**Core**](https://github.com/djga77/echolink-starmesh/blob/main/blueprint-starmesh-core-web.png)
 - [**Faceplate**](https://github.com/djga77/echolink-starmesh/blob/main/blueprint-starmesh-faceplate-web.png)
 - [**ISO / Assembly**](https://github.com/djga77/echolink-starmesh/blob/main/blueprint-starmesh-iso-assembly-web.png)
