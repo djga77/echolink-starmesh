@@ -42,6 +42,7 @@ status = ONLINE
 ### ROUTE CARDS (mnemonic)<BR>
 - <B>S</B>ignal rides crowd attention
 - <B>T</B>iming widens the window
+- <B>T</B>iming widens the window
 - <B>A</B>tlas routes converge on A-25
 - <B>R</B>ed sweep = cut fast
 - <B>M</B>erger lands Q4 2033
