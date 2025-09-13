@@ -40,7 +40,7 @@ status = ONLINE
 </details>
 <BR>
 ### ROUTE CARDS (mnemonic)<BR>
-<B>S</B>ignal rides crowd attention
+- <B>S</B>ignal rides crowd attention
 - <B>T</B>iming widens the window
 - <B>A</B>tlas routes converge on A-25
 - <B>R</B>ed sweep = cut fast
